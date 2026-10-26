@@ -1,0 +1,10 @@
+# 大文件不入库
+credit card clients.csv
+default of credit card clients.xlsx
+*.xlsx
+
+# 系统文件
+__pycache__/
+.ipynb_checkpoints/
+desktop.ini
+Thumbs.db
